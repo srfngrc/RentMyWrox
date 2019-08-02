@@ -5,6 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
+    <link href="Content/main.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
     <h1>I am Informative Text Title</h1>                    I am input text
