@@ -143,7 +143,7 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="IntroToCss.aspx" />
-    <Content Include="IntroToCss.css" />
+    <Content Include="Content\IntroToCss.css" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
