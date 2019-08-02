@@ -2,3 +2,12 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: medium;
 }
+title {
+    font-family: Cambria;
+}
+.title {
+    font-family: Cambria;
+}
+.label{
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
