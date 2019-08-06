@@ -11,7 +11,7 @@ namespace InitialProject_SRFN.Demonstrations
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Text1.Value = "hahahahhaha";
         }
 
         protected void submitButton_Click(object sender, EventArgs e)
