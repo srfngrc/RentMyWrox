@@ -226,3 +226,5 @@ C:\VSRepositories\RentMyWrox\obj\Debug\InitialProject_SRFN.csproj.CoreCompileInp
 C:\VSRepositories\RentMyWrox\obj\Debug\InitialProject_SRFN.csproj.CopyComplete
 C:\VSRepositories\RentMyWrox\obj\Debug\InitialProject_SRFN.dll
 C:\VSRepositories\RentMyWrox\obj\Debug\InitialProject_SRFN.pdb
+C:\VSRepositories\RentMyWrox\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\VSRepositories\RentMyWrox\bin\Microsoft.AspNet.FriendlyUrls.xml
