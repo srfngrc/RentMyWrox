@@ -13,6 +13,7 @@ namespace RentMyWrox.Models
 
         public string getFullName()
         {
+
             return firstName + " " + lastName;
         }
     }
