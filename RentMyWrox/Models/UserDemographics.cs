@@ -15,6 +15,7 @@ namespace RentMyWrox.Models
         public string Gender { get; set; }
         public string MaritalStatus { get; set; }
         public DateTime DateMovedIntoArea { get; set; }
+
         public bool OwnHome { get; set; }
         public int TotalPeopleInHome { get; set; }
         public List<string> Hobbies { get; set; }
